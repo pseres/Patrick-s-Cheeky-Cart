@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "homework/internal/grpc/proto";
+option go_package = "internal/grpc/proto";
 
 message CartRequest {
     message CartItem {
